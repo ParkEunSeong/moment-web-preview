@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+      <defs>
+        <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FFF7ED"/><stop offset="1" stop-color="#F8DDE4"/></linearGradient>
+      </defs>
+      <rect width="400" height="400" fill="url(#bg)"/>
+      <circle cx="-15" cy="70" r="108" fill="#F8B8C6" opacity=".27"/>
+      <circle cx="390" cy="387" r="116" fill="#EF829C" opacity=".15"/>
+      <g fill="none" stroke="#493E55" opacity=".12" stroke-width="2"><path d="M18 196H52M358 199H382M192 12V35M190 368V390"/></g>
+      <g fill="#EF829C" opacity=".5"><circle cx="28" cy="243" r="4"/><circle cx="368" cy="145" r="5"/><circle cx="293" cy="26" r="3"/></g>
+      <g fill="#493E55" stroke="#493E55"><path transform="translate(50 58) scale(0.45)" d="M0 12C-40-24-76 18 0 76C76 18 40-24 0 12Z" fill="#F8B8C6" stroke="#493E55" stroke-width="5"/><path transform="translate(342 344) scale(0.73)" d="M0-28L8-8L29-8L12 5L18 27L0 14L-18 27L-12 5L-29-8L-8-8Z" fill="#EF829C"/></g>
+      <g fill="#EF829C" stroke="#493E55">
+      <rect x="51" y="44" width="298" height="308" rx="33" fill="#493E55" opacity=".08" transform="rotate(7 200 200)"/>
+      <g transform="translate(-3 3) rotate(7 200 200)">
+        <rect x="51" y="54" width="298" height="290" rx="145" fill="#FFF7ED"/><circle cx="200" cy="198" r="126" fill="#F8DDE4"/><circle cx="200" cy="198" r="135" fill="none" stroke="#EF829C" opacity=".45" stroke-width="2"/>
+        <circle cx="301" cy="84" r="47" fill="#F8B8C6" opacity=".45"/>
+        <circle cx="102" cy="278" r="55" fill="#EF829C" opacity=".12"/>
+        <g transform="translate(200 182)"><path d="M-56-66H56L44 18L0 48L-44 18Z" fill="#EF829C" stroke="#493E55" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M-55-49H-85V-17C-85 7-62 22-41 22M55-49H85V-17C85 7 62 22 41 22" fill="none" stroke="#493E55" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><rect x="-28" y="47" width="56" height="20" rx="2" fill="#F8B8C6" stroke="none" stroke-width="5"/><rect x="-51" y="69" width="102" height="15" rx="3" fill="#493E55" stroke="none" stroke-width="5"/><path transform="translate(0 -20) scale(0.8)" d="M0-28L8-8L29-8L12 5L18 27L0 14L-18 27L-12 5L-29-8L-8-8Z" fill="#EF829C"/></g>
+      </g></g>
+    </svg>

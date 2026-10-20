@@ -1,0 +1,6 @@
+Doodle Icons by Khushmeen Sidhu
+https://khushmeen.com/icons.html
+Artwork: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+SVG paths retrieved from the react-doodle-icons mirror; JSX wrappers removed.
+The mirror MIT notice is included separately.

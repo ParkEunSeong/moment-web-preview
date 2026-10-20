@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+      <defs>
+        <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FFF7ED"/><stop offset="1" stop-color="#F8DDE4"/></linearGradient>
+      </defs>
+      <rect width="400" height="400" fill="url(#bg)"/>
+      <circle cx="-15" cy="70" r="108" fill="#F8B8C6" opacity=".27"/>
+      <circle cx="390" cy="387" r="116" fill="#EF829C" opacity=".15"/>
+      <g fill="none" stroke="#493E55" opacity=".12" stroke-width="2"><path d="M18 196H52M358 199H382M192 12V35M190 368V390"/></g>
+      <g fill="#EF829C" opacity=".5"><circle cx="28" cy="243" r="4"/><circle cx="368" cy="145" r="5"/><circle cx="293" cy="26" r="3"/></g>
+      <g fill="#493E55" stroke="#493E55"><g transform="translate(45 341) rotate(-40)"><path d="M0 31C-43 9-37-29 0-31C37-29 43 9 0 31Z" fill="#F8B8C6" stroke="#493E55" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 27L0 -20" stroke="#493E55" stroke-width="3" stroke-linecap="round"/></g><g transform="translate(345 53) scale(0.46)"><ellipse cx="0" cy="-30" rx="16" ry="28" transform="rotate(0)" fill="#F8B8C6"/><ellipse cx="0" cy="-30" rx="16" ry="28" transform="rotate(60)" fill="#F8B8C6"/><ellipse cx="0" cy="-30" rx="16" ry="28" transform="rotate(120)" fill="#F8B8C6"/><ellipse cx="0" cy="-30" rx="16" ry="28" transform="rotate(180)" fill="#F8B8C6"/><ellipse cx="0" cy="-30" rx="16" ry="28" transform="rotate(240)" fill="#F8B8C6"/><ellipse cx="0" cy="-30" rx="16" ry="28" transform="rotate(300)" fill="#F8B8C6"/><circle cx="0" cy="0" r="17" fill="#EF829C" stroke="none" stroke-width="5"/></g></g>
+      <g fill="#EF829C" stroke="#493E55">
+      <rect x="51" y="44" width="298" height="308" rx="33" fill="#493E55" opacity=".08" transform="rotate(-3 200 200)"/>
+      <g transform="translate(0 -2) rotate(-3 200 200)">
+        <rect x="55" y="50" width="290" height="302" rx="16" fill="#FFF7ED"/><rect x="81" y="69" width="244" height="260" rx="7" fill="#F8DDE4"/><path d="M64 84H47M64 128H47M64 172H47M64 216H47M64 260H47M64 304H47" stroke="#493E55" opacity=".35" stroke-width="7" stroke-linecap="round"/>
+        <circle cx="301" cy="84" r="47" fill="#F8B8C6" opacity=".45"/>
+        <circle cx="102" cy="278" r="55" fill="#EF829C" opacity=".12"/>
+        <g transform="translate(200 182)"><rect x="-78" y="-74" width="156" height="151" rx="16" fill="#FFF7ED" stroke="#493E55" stroke-width="5"/><path d="M-45-45V-89M42-45V-89" fill="none" stroke="#493E55" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M-77 -31L76 -31" stroke="#493E55" stroke-width="7" stroke-linecap="round"/><circle cx="-35" cy="0" r="9" fill="#EF829C" stroke="none" stroke-width="5"/><circle cx="0" cy="0" r="9" fill="#EF829C" stroke="none" stroke-width="5"/><path transform="translate(29 5) scale(0.55)" d="M0 12C-40-24-76 18 0 76C76 18 40-24 0 12Z" fill="#EF829C" stroke="#493E55" stroke-width="5"/></g>
+      </g></g>
+    </svg>

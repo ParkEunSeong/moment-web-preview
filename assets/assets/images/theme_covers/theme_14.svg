@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+      <defs>
+        <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FFF9F1"/><stop offset="1" stop-color="#F6E2E7"/></linearGradient>
+      </defs>
+      <rect width="400" height="400" fill="url(#bg)"/>
+      <circle cx="-15" cy="70" r="108" fill="#E8B7C8" opacity=".27"/>
+      <circle cx="390" cy="387" r="116" fill="#C9889B" opacity=".15"/>
+      <g fill="none" stroke="#564354" opacity=".12" stroke-width="2"><path d="M18 196H52M358 199H382M192 12V35M190 368V390"/></g>
+      <g fill="#C9889B" opacity=".5"><circle cx="28" cy="243" r="4"/><circle cx="368" cy="145" r="5"/><circle cx="293" cy="26" r="3"/></g>
+      <g fill="#564354" stroke="#564354"><path transform="translate(50 58) scale(0.45)" d="M0 12C-40-24-76 18 0 76C76 18 40-24 0 12Z" fill="#E8B7C8" stroke="#564354" stroke-width="5"/><path transform="translate(342 344) scale(0.73)" d="M0-28L8-8L29-8L12 5L18 27L0 14L-18 27L-12 5L-29-8L-8-8Z" fill="#C9889B"/></g>
+      <g fill="#C9889B" stroke="#564354">
+      <rect x="51" y="44" width="298" height="308" rx="33" fill="#564354" opacity=".08" transform="rotate(7 200 200)"/>
+      <g transform="translate(-3 3) rotate(7 200 200)">
+        <rect x="51" y="54" width="298" height="290" rx="145" fill="#FFF9F1"/><circle cx="200" cy="198" r="126" fill="#F6E2E7"/><circle cx="200" cy="198" r="135" fill="none" stroke="#C9889B" opacity=".45" stroke-width="2"/>
+        <circle cx="301" cy="84" r="47" fill="#E8B7C8" opacity=".45"/>
+        <circle cx="102" cy="278" r="55" fill="#C9889B" opacity=".12"/>
+        <g transform="translate(200 182)"><rect x="-71" y="-56" width="142" height="121" rx="16" fill="#FFF9F1" stroke="#564354" stroke-width="5"/><path transform="translate(0 -26) scale(0.6)" d="M0 12C-40-24-76 18 0 76C76 18 40-24 0 12Z" fill="#C9889B" stroke="#564354" stroke-width="5"/><path d="M-53 44L53 44" stroke="#564354" stroke-width="4" stroke-linecap="round"/><path transform="translate(-70 -76) scale(0.6)" d="M0-28L8-8L29-8L12 5L18 27L0 14L-18 27L-12 5L-29-8L-8-8Z" fill="#C9889B"/><path transform="translate(75 -56) scale(0.42)" d="M0-28L8-8L29-8L12 5L18 27L0 14L-18 27L-12 5L-29-8L-8-8Z" fill="#C9889B"/></g>
+      </g></g>
+    </svg>

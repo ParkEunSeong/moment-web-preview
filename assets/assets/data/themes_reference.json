@@ -1,0 +1,86 @@
+[
+  {
+    "id": "TH-051",
+    "category": "성장·학창시절",
+    "title": "졸업의 순간",
+    "purpose": "격자 종이와 감성 졸업 스크랩북",
+    "photoGuide": "졸업 사진을 5장 이상 넣으면 종이 콜라주가 채워져요.",
+    "layoutName": "졸업 스크랩북",
+    "layout": "paperCollage",
+    "description": "찢어진 종이와 격자 무늬로 졸업의 감성을 담아요.",
+    "caption": "새로운 시작을 축하해!",
+    "example": "우리의 졸업식과 빛나는 다음 장.",
+    "photoHint": "졸업식·친구·오늘의 나를 각 구간에 담아 주세요.",
+    "sections": ["졸업식", "함께한 친구들", "새로운 시작"],
+    "fields": [
+      {"id": "TH-051-F01", "label": "이름", "hint": "주인공의 이름", "requirement": "선택 입력"},
+      {"id": "TH-051-F02", "label": "졸업 연도", "hint": "예: 2026", "requirement": "선택 입력"},
+      {"id": "TH-051-F03", "label": "축하 문구", "hint": "전하고 싶은 한마디", "requirement": "선택 입력"}
+    ],
+    "image": "assets/images/theme50_school.jpg",
+    "background": 4288647800
+  },
+  {
+    "id": "TH-052",
+    "category": "성장·학창시절",
+    "title": "너의 작은 계절",
+    "purpose": "하트와 잎사귀로 꾸민 아기 성장 앨범",
+    "photoGuide": "아기의 성장 사진을 5장 이상 넣어 양쪽 페이지를 채워 주세요.",
+    "layoutName": "성장 북 펼침면",
+    "layout": "babyBook",
+    "description": "연한 분홍색 두 페이지에 성장 사진과 개월 수를 기록해요.",
+    "caption": "하루하루 자라는 너를 사랑해.",
+    "example": "처음 웃던 날부터 첫돌까지.",
+    "photoHint": "시기별 사진과 구간 이름을 자유롭게 바꿀 수 있어요.",
+    "sections": ["첫 순간", "6개월", "첫돌"],
+    "fields": [
+      {"id": "TH-052-F01", "label": "아이 이름", "hint": "이름 또는 별명", "requirement": "선택 입력"},
+      {"id": "TH-052-F02", "label": "성장 시기", "hint": "예: 8개월, 첫돌", "requirement": "선택 입력"},
+      {"id": "TH-052-F03", "label": "한마디", "hint": "아이에게 전할 말", "requirement": "선택 입력"}
+    ],
+    "image": "assets/images/theme50_growth.jpg",
+    "background": 4294371558
+  },
+  {
+    "id": "TH-053",
+    "category": "커플·연애",
+    "title": "우리의 기념일",
+    "purpose": "빈티지 종이와 꽃으로 꾸민 감성 기념일",
+    "photoGuide": "함께한 사진을 3장 이상 넣어 주세요.",
+    "layoutName": "빈티지 기념일",
+    "layout": "vintagePolaroid",
+    "description": "찢어진 편지지, 마른 꽃과 사진 세 장으로 감성적인 기념일을 남겨요.",
+    "caption": "함께한 모든 날이 선물이야.",
+    "example": "우리의 다정한 순간들을 한 장에.",
+    "photoHint": "가장 좋아하는 사진 세 장을 먼저 골라 주세요.",
+    "sections": ["처음 만난 날", "함께한 시간", "오늘의 우리"],
+    "fields": [
+      {"id": "TH-053-F01", "label": "기념일 제목", "hint": "예: 우리의 1주년", "requirement": "선택 입력"},
+      {"id": "TH-053-F02", "label": "날짜", "hint": "예: 2026.10.16", "requirement": "선택 입력"},
+      {"id": "TH-053-F03", "label": "편지", "hint": "함께한 사람에게 남길 말", "requirement": "선택 입력"}
+    ],
+    "image": "assets/images/theme50_couple.jpg",
+    "background": 4291272070
+  },
+  {
+    "id": "TH-054",
+    "category": "커플·연애",
+    "title": "사랑의 조각들",
+    "purpose": "코럴 핑크 위에 펼친 감성 사랑 콜라주",
+    "photoGuide": "우리 사진을 6장 이상 넣으면 사랑 콜라주가 완성돼요.",
+    "layoutName": "하트 감성",
+    "layout": "loveCollage",
+    "description": "코럴 핑크 가운데에 손글씨와 감성 사진을 둘러 배치해요.",
+    "caption": "너와 나, 우리다운 사랑.",
+    "example": "처음 만난 날부터 지금까지.",
+    "photoHint": "사진을 추가한 순서대로 콜라주에 배치돼요.",
+    "sections": ["처음의 우리", "함께 웃던 날", "지금의 우리"],
+    "fields": [
+      {"id": "TH-054-F01", "label": "우리의 이름", "hint": "두 사람의 이름 또는 별명", "requirement": "선택 입력"},
+      {"id": "TH-054-F02", "label": "기념 날짜", "hint": "예: 2026.10.16", "requirement": "선택 입력"},
+      {"id": "TH-054-F03", "label": "한마디", "hint": "가장 좋아하는 말", "requirement": "선택 입력"}
+    ],
+    "image": "assets/images/theme50_couple.jpg",
+    "background": 4293429644
+  }
+]

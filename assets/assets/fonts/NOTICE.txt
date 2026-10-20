@@ -1,0 +1,5 @@
+Copyright (c) 2017 NAVER Corporation. All rights reserved.
+Font designed by Sandoll Communications Inc.
+NanumSquareRound is licensed under SIL Open Font License 1.1.
+Official full license: https://help.naver.com/service/30016/contents/18088?osType=PC&lang=ko
+See NAVER-LICENSE.html in this directory for the retrieved full license.

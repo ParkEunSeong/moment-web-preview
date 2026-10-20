@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+      <defs>
+        <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FFF8EC"/><stop offset="1" stop-color="#E8E0D7"/></linearGradient>
+      </defs>
+      <rect width="400" height="400" fill="url(#bg)"/>
+      <circle cx="-15" cy="70" r="108" fill="#E8C8AF" opacity=".27"/>
+      <circle cx="390" cy="387" r="116" fill="#CF9D83" opacity=".15"/>
+      <g fill="none" stroke="#655351" opacity=".12" stroke-width="2"><path d="M18 196H52M358 199H382M192 12V35M190 368V390"/></g>
+      <g fill="#CF9D83" opacity=".5"><circle cx="28" cy="243" r="4"/><circle cx="368" cy="145" r="5"/><circle cx="293" cy="26" r="3"/></g>
+      <g fill="#655351" stroke="#655351"><path transform="translate(50 58) scale(0.45)" d="M0 12C-40-24-76 18 0 76C76 18 40-24 0 12Z" fill="#E8C8AF" stroke="#655351" stroke-width="5"/><path transform="translate(342 344) scale(0.73)" d="M0-28L8-8L29-8L12 5L18 27L0 14L-18 27L-12 5L-29-8L-8-8Z" fill="#CF9D83"/></g>
+      <g fill="#CF9D83" stroke="#655351">
+      <rect x="51" y="44" width="298" height="308" rx="33" fill="#655351" opacity=".08" transform="rotate(7 200 200)"/>
+      <g transform="translate(-3 3) rotate(7 200 200)">
+        <rect x="51" y="54" width="298" height="290" rx="145" fill="#FFF8EC"/><circle cx="200" cy="198" r="126" fill="#E8E0D7"/><circle cx="200" cy="198" r="135" fill="none" stroke="#CF9D83" opacity=".45" stroke-width="2"/>
+        <circle cx="301" cy="84" r="47" fill="#E8C8AF" opacity=".45"/>
+        <circle cx="102" cy="278" r="55" fill="#CF9D83" opacity=".12"/>
+        <g transform="translate(200 182)"><rect x="-75" y="-62" width="150" height="119" rx="8" fill="#FFF8EC" stroke="#655351" stroke-width="5"/><path d="M-44 19L-14 45L48-32" fill="none" stroke="#655351" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path transform="translate(-69 -79) scale(0.5)" d="M0-28L8-8L29-8L12 5L18 27L0 14L-18 27L-12 5L-29-8L-8-8Z" fill="#CF9D83"/><path transform="translate(72 -79) scale(0.6)" d="M0-28L8-8L29-8L12 5L18 27L0 14L-18 27L-12 5L-29-8L-8-8Z" fill="#CF9D83"/><rect x="-49" y="69" width="98" height="12" rx="3" fill="#CF9D83" stroke="none" stroke-width="5"/></g>
+      </g></g>
+    </svg>
